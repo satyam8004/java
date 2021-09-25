@@ -1,4 +1,4 @@
-// get asci VALUE
+// get ASCII VALUE
 import java.util.*;
 public class GetASCII{
   public static void main(String[] args) {
